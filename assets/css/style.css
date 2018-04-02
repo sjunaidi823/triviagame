@@ -1,0 +1,64 @@
+body {
+    font-family: "Chicle", "cursive";
+    background-color: white;
+
+}
+
+
+h1 {
+    text-align: center;
+    color: red;
+    font-size: 70px;
+    height: 50px;
+
+}
+
+
+.question {
+	font-size:  50px;
+    font-weight: bold;
+    height: 150px;
+    padding: 20px;
+    color: red;
+    text-align: center;
+  
+
+}
+
+.answers {
+    font-size: 50px;
+
+}
+
+.answerClass {
+	font-size: 28px;
+	font-weight: bold;
+}
+
+#timer {
+	font-size: 30px;
+    color: red;
+    height: 35px;
+
+
+
+}
+
+.wrapper{
+	background-size: cover;
+	height: 100%;
+
+}
+
+.box {
+	background-color: rgba(64,224,208, .5);
+    color: black;
+    font-size: 30px;
+
+}
+
+
+
+
+ 
+
